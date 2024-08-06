@@ -39,3 +39,6 @@ Schema for Pulp Informational Object. Import into arrows.app
 Technical loom outlining dynamic modeling: [Here](https://www.loom.com/share/f347b5de13b742c2a20e0537973c3d13?sid=cbf49fcd-ea40-45f1-ba67-fe93f6546e52)
 
 Figma mentioned in loom: [Here](https://www.figma.com/board/9VAyY7WCof322uF9TRporp/Research-Scrap-JM-AM?node-id=0-1&t=5qFaQMGkyh2jY7GP-1)
+
+## To-Do 
+08/05 - Complete prompts and cypher for Document related nodes
