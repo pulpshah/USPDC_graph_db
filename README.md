@@ -22,7 +22,7 @@ As of 08/05/24, it only uses `pkl/June 27, 2024 Presidential Debate Transcript.p
 
 ##### `Neo4j Credentials.txt`
 
-Credentials for Neo4j instances updated by `dynamic_model.ipynb` .
+Credentials for Neo4j instance used by `dynamic_model.ipynb` .
 
 ##### `Persuasive Resonance.json`
 
