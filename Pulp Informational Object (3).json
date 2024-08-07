@@ -1103,7 +1103,7 @@
       "caption": "",
       "labels": [
         "sentence_type",
-        "interrogative"
+        "declarative"
       ],
       "properties": {
         "punctuation": "char",
