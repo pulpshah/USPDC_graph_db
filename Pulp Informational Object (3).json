@@ -375,7 +375,8 @@
         "Amount_of_words": "int",
         "sentence_index": "int",
         "amount_dep_clause": "int",
-        "amount_indep_clause": "int"
+        "amount_indep_clause": "int",
+        "sentence_structure": "[string]"
       },
       "style": {}
     },
